@@ -1,5 +1,7 @@
 # A test suite for QUIC
 
+**Note: This project has moved to https://github.com/QUIC-Tracker**
+
 This work is part of my master thesis for my master's degree in Computer Science at [Université catholique de Louvain](https://uclouvain.be). It is supervised by Pr. Olivier Bonaventure and Quentin De Coninck.
 
 It is two-fold:
